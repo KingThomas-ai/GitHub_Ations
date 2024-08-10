@@ -1,0 +1,16 @@
+{
+    "TestData": [
+        {
+            "testId": "PR01",
+            "testindex": "0",
+            "email": "john2k19wick@gmail.com",
+            "password": "vaibhavS@95"
+        },
+        {
+            "testId": "PR02",
+            "testindex": "1",
+            "email": "john2k1985wick@gmail.com",
+            "password": "vaibh5avS@95"
+        }
+    ]
+}
